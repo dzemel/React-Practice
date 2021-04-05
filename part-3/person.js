@@ -1,7 +1,5 @@
-function Tweet(props) {
+function Person(props) {
     const {name, age, hobbies} = props;
-
-
     return (
         <div>    
             <p>Learn some information about this person</p>
